@@ -1,0 +1,28 @@
+_repo: The-Evolution-of-an-English-Town_15053
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Home, Gordon
+    alias: Home, Gordon Cochrane
+    birthdate: 1878
+    deathdate: 1969
+    gutenberg_agent_id: '2778'
+    url: http://www.gutenberg.org/2009/agents/2778
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+description: ''
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pickering (England)'
+- !lcc 'DA'
+title: The Evolution of an English Town
+url: http://www.gutenberg.org/ebooks/15053
